@@ -1,5 +1,13 @@
 # About Me
+I am a student studying Games Technology at UWE Bristol.
+My hobbies include: Watching films and playing games.
+Along side these I enjoy streaming games on Twitch.
+My favorite games include: Guitar Hero, Beat Saber, Call of Duty: Black Ops 3, and Metroid Fusion.
+My favorite films are: Scott Pilgrim Vs The World, and Donnie Darko.
 
+# Contact Me
+
+Email: lewis2.tucker@live.uwe.ac.uk
 
 
 # Level Design Jobs
