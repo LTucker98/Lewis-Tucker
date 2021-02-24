@@ -1,5 +1,3 @@
-# Lewis Tucker
-
 # About Me
 
 
