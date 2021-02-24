@@ -1,4 +1,8 @@
-# ltucker98.github.io
+# Lewis Tucker
+
+# About Me
+
+
 
 # Level Design Jobs
 
@@ -9,3 +13,6 @@ They would want you to be able to relay the story and support the narrative thro
 Also needed is the ability to analyse the game world, and understand what it takes to make the levels enjoyable and replayable.
 Being able to create and iterate levels based on feedback is one of the key requirements of most applications as it is needed to improve the consumer experience.
 Another key element is that you must be able to work alongside others as they will be working on other features and mechanics that you need to take into account.
+
+
+# Role of a Gameplay Programmer (24/02/2021)
