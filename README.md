@@ -22,3 +22,19 @@ Another key element is that you must be able to work alongside others as they wi
 
 
 # Role of a Gameplay Programmer (24/02/2021)
+
+Description:
+
+A Gameplay Programmer is a role that implements game features. They work with the level designers to improve the overall gameplay. They also oversee the balancing and tuning of the game, as well as bug fixing and optimisation.
+
+The requirement/qualifications for a Gameplay Programmer role seems to vary depending on the project. With the example of Ubisoft, an unannounced project asks the applicant to have has 3 years of prior work in the commercial software field, whilst another role asks for the same but with the addition of having worked on at least one AAA game that has been released. 
+Both the applications features the main qualities that is expected at a minimum for the applicant, e.g. Experience with Unity/Unreal, Experience with AI, as well as a degree in Computer Science or equivalent. 
+
+In the case of TT Games, they do not require you to have had prior experience within the gaming industry, this is only mentioned within the Advantagous section of the application to acknowledge that if a applicant were to have this under their belt then they would have a higher chance of achieving this job.
+
+On average, a Gameplay Programmer earns an average of £31,000 / year, with a low of £25,000 and a high of £49,000 for the most experienced.
+
+Sources:
+ttgames.com/job/game-programmer-fixed-term/
+ubisoft.com/en-US/careers/search.aspx#sr-post-id=743999736490487&is-redirect=true
+ubisoft.com/en-US/careers/search.aspx#sr-post-id=743999736509515&is-redirect=true
